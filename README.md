@@ -19,3 +19,4 @@ In this lab, you'll be building a **Pig Latinizer** using Sinatra and the MVC pa
 <a href='https://en.wikipedia.org/wiki/Pig_Latin'>Pig Latin on wikipedia</a>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-mvc-lab'>Sinatra MVC Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Sinatra MVC Lab - Pig Latinizer</p>
